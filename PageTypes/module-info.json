@@ -1,0 +1,13 @@
+{
+    "name": "serenity-page-types",
+    "installed": false,
+    "protected": false,
+    "providers": [
+
+    ],
+    "files": [
+        "start.php"
+    ],
+    "installer": null,
+    "uninstaller": null
+}
